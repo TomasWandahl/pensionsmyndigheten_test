@@ -55,16 +55,14 @@
     text-align: center;
     float: right;
     margin-left: auto;
-    font-size: 16px;
+    font-size: 8px 16px;
     cursor: pointer;
   }
 
   .item_description {
-    padding: 8px;
+    background: #fff;
+    padding: 16px;
     font-size: 16px;
-    border-left: 1px solid #F1F1F3;
-    border-bottom: 1px solid #F1F1F3;
-    border-right: 1px solid #F1F1F3;
   }
 
   </style>

@@ -119,11 +119,10 @@ body {
   }
 }
 @media (max-width: 750px) {
-  #app {
-    margin-top: 0px;
-  }
   .content {
     width: 100vw;
+    margin-top: 0;
+    border-top: 2px solid #fff;
   }
 }
 </style>
